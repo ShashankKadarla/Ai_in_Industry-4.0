@@ -19,15 +19,6 @@ To run the code, you will need to install the following dependencies:
 - Torch
 - Requests
 - Google Colab (optional for file uploads)
-  
-Installation Instructions
-Follow these steps to set up the environment and run the code:
-1. Clone this repository:
-`git clone https://github.com/your_username/repository_name.git`
-2. Install the required dependencies:
-`pip install -r requirements.txt`
-3. Run the application:
-`python app.py`
 
 
 Usage
