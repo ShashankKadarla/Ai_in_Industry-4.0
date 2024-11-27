@@ -29,19 +29,5 @@ Code Explanation
 2. **Diffusion Pipeline**: A pre-trained diffusion model is used to generate AI-based video frames from the captions.
 3. **Gradio Interface**: The Gradio library is used to create the interactive web interface that allows users to upload videos, view captions, and download the generated video.
    
-
-
-The video file we used for this project is of a man walking on a normal day on a street and this is the caption i could think of..
-
-The below is the caption the model generated for the same video 
-“The image shows a man in a maroon T-shirt and a backpack walking down the street. The man is wearing sunglasses and has short hair. The background is blurred, but we can see that the man is walking on a busy street.
-The image shows a man in his late teens or early twenties walking down the street. He is wearing a backpack and has sunglasses on. The background is blurred, but it appears that he is walking on a sidewalk next to a busy street.
-The image shows a man walking down the street. He is wearing a backpack and has sunglasses on. The street is lined with trees and there are cars parked on the side of the road. The sky is clear and blue.
-The image shows a man walking down the street. The man is wearing a backpack and a pair of sunglasses. The street is lined with trees and there are a few cars parked on the side of the road. The image is taken from behind the man, so we can't see his face.
-The image shows a man in his late teens or early twenties walking down a street. He is wearing a backpack and has his sunglasses perched on his head. The background is blurred, but we can see that he is in a city. The man is walking towards the camera, and his expression is neutral.
-The image shows a man walking down the street. He is wearing a backpack and has sunglasses on. The background is blurred, but we can see a few cars and a bus.
-The image shows a man in a maroon T-shirt and a backpack walking down the street. The man is wearing sunglasses and has short hair. The street is lined with trees and there are a few cars parked on the side of the road. The background is blurred, but there appears to be a bus in the distance. The man is walking towards the camera and is in the middle of the frame.
-The image shows a man in a maroon T-shirt and a backpack walking down the street. The man is wearing sunglasses and has short hair. The background is blurred, but we can see a few trees and some vehicles on the road. The man is walking on the pavement, and the sky is clear.
-The image shows a man in a maroon T-shirt and a backpack walking down the street. The man is wearing sunglasses and has short hair. The background is blurred, but we can see a few trees and a bus.
-The image shows a man in a maroon T-shirt and a backpack walking on a street. The street is lined with trees and there are a few people walking on the street. The man is walking on the pavement and there is a bus in the background.
-The image shows a man in a maroon T-shirt and a backpack walking on a street. The street is lined with trees and there are vehicles parked on the side of the road. The man is wearing sunglasses and has short hair. He is walking on the pavement and there is a bus in the background.”
+The below is the first paragraph of the caption the model generated for the same video
+”The image shows a man in a maroon T-shirt and a backpack walking down the street. The man is wearing sunglasses and has short hair. The background is blurred, but we can see that the man is walking on a busy street”
